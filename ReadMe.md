@@ -1,6 +1,6 @@
-#Small microservice demo
+# Small microservice demo
 
-Folder Structure Followed
+\*\*Folder Structure Followed
 
 user-creation/
 config/  
