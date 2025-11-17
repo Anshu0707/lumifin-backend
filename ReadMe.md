@@ -16,11 +16,10 @@
     ├── data.js
     └── server.js
 ```
+### Tech Stack
+- Express | Psql CLI 
+---
 
-- Tech Stack
----
-Express | Psql CLI 
----
 - Database Interation
 
 ---
