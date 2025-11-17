@@ -31,25 +31,23 @@ Express | Psql CLI
 
 ---
 
-- MicroService V/S Monolith
+- Microservice v/s Monolith
 ---
 <img width="1400" height="367" alt="1_0KU2D01lx9TCOnGc8n20Cg" src="https://github.com/user-attachments/assets/4cd367a0-9327-468e-a4f2-9e8773057310" />
 
 
 ---
-- Monolith
-  
-  Single Codebase, single deployment.
-  All the modules are tightly coupled.
-  Single point of failure.
-  Difficult Scalability, as you can not scale individual modules independently.
-  Hard to maintain if different teams are working on different modules.
+### Monolith
+- Single Codebase, single deployment.
+- All the modules are tightly coupled.
+- Single point of failure.
+- Difficult Scalability, as you can not scale individual modules independently.
+- Hard to maintain if different teams are working on different modules.
 
-- Microservices
-  
-  Multiple independent services.
-  Independent deployment for each module.
-  Teams can focus on their modules independently.
-  Easy scalability.
-  More resilient as no single point of failure exists.
+### Microservices
+- Multiple independent services.
+- Independent deployment for each module.
+- Teams can focus on their modules independently.
+- Easy scalability.
+- More resilient as no single point of failure exists.
   
